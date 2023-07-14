@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+}
+.main-title {
+    font-family: 'Courier New';
+    font-size: 50px;
+}
+a {
+    text-decoration: none;
+    font-size: 25px;
+}
+.recipes-list {
+    text-align: left;
+    list-style-position: inside;
+}
+.image {
+    height: 300px;
+    width: 300px;
+}
